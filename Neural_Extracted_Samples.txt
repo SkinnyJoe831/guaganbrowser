@@ -1,0 +1,14 @@
+=== Key/Value-ish lines ===
+
+
+=== JSON-ish lines ===
+{21,51,26,40}
+{"planet":"Sun","stream":"design","gate":XX,"line":Y}
+{"planet":"Sun","stream":"design","gate":XX,"line":Y}
+{"planet":"Mercury","stream":"design","gate":20,"line":2}
+{'winner_head','rationale','scores':{head:float}}
+{}
+{1:0.05,2:0.04,3:0.06,4:0.05,5:0.06,6:0.07}
+{}
+{"ajna":0.0,"spleen":0.0,"solar":0.0}
+{"body":0,"mind":1,"heart":2}

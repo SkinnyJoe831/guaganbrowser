@@ -1,0 +1,77 @@
+[
+  {
+    "dimension": "Body",
+    "center": "Spleen",
+    "yiji_binary": "001110",
+    "waveform": {
+      "freq": 1.0833,
+      "amp": 0.7333,
+      "phase": 0.7854,
+      "carrier": 1
+    },
+    "sentence": "Body voices Gate 46.3 with Color 2, Tone 5, Base 1; motif: Being, Matter, Touch.",
+    "zodiac": {
+      "degree": 17,
+      "minute": 14,
+      "second": 22,
+      "house": 6,
+      "axis": "South",
+      "planet": "Sun"
+    },
+    "gate": 46,
+    "line": 3,
+    "color": 2,
+    "tone": 5,
+    "base": 1
+  },
+  {
+    "dimension": "Mind",
+    "center": "Ajna",
+    "yiji_binary": "110110",
+    "waveform": {
+      "freq": 0.9167,
+      "amp": 1.4,
+      "phase": 0.0,
+      "carrier": -1
+    },
+    "sentence": "Mind voices Gate 61.1 with Color 6, Tone 4, Base 2; motif: Evolution, Gravity, Memory.",
+    "zodiac": {
+      "degree": 20,
+      "minute": 51,
+      "second": 9,
+      "house": 9,
+      "axis": "North",
+      "planet": "Mercury"
+    },
+    "gate": 61,
+    "line": 1,
+    "color": 6,
+    "tone": 4,
+    "base": 2
+  },
+  {
+    "dimension": "Heart",
+    "center": "G",
+    "yiji_binary": "111010",
+    "waveform": {
+      "freq": 0.5833,
+      "amp": 0.9,
+      "phase": 1.1781,
+      "carrier": 1
+    },
+    "sentence": "Heart voices Gate 10.4 with Color 3, Tone 2, Base 1; motif: Movement, Energy, Creation.",
+    "zodiac": {
+      "degree": 5,
+      "minute": 33,
+      "second": 40,
+      "house": 7,
+      "axis": "South",
+      "planet": "Venus"
+    },
+    "gate": 10,
+    "line": 4,
+    "color": 3,
+    "tone": 2,
+    "base": 1
+  }
+]

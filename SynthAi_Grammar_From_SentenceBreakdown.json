@@ -1,0 +1,167 @@
+{
+  "detected_centers_sample": [
+    "AJna",
+    "Ajna",
+    "Ego",
+    "G",
+    "G\n \nCenter",
+    "Head",
+    "Heart",
+    "Root",
+    "Sacral",
+    "Spleen",
+    "Throat",
+    "ajna",
+    "g",
+    "head",
+    "root",
+    "sacral",
+    "spleen",
+    "throat"
+  ],
+  "detected_keywords_sample": [
+    "Axis",
+    "Base",
+    "Color",
+    "Degree",
+    "Gate",
+    "House",
+    "Line",
+    "Minute",
+    "Second",
+    "Tone",
+    "axis",
+    "base",
+    "color",
+    "degree",
+    "gate",
+    "house",
+    "line",
+    "minute",
+    "second",
+    "tone"
+  ],
+  "inferred_grammar": {
+    "Body": {
+      "sequence": [
+        "Being",
+        "Matter",
+        "Touch",
+        "Sex",
+        "Survival"
+      ],
+      "expression_stack": [
+        "Gate",
+        "Line",
+        "Color",
+        "Tone",
+        "Base",
+        "Degree",
+        "Minute",
+        "Second",
+        "Axis",
+        "House"
+      ]
+    },
+    "Mind": {
+      "sequence": [
+        "Evolution",
+        "Gravity",
+        "Memory",
+        "Taste",
+        "Love",
+        "Light"
+      ],
+      "expression_stack": [
+        "Gate",
+        "Line",
+        "Color",
+        "Tone",
+        "Base",
+        "Degree",
+        "Minute",
+        "Second",
+        "Axis",
+        "House"
+      ]
+    },
+    "Heart": {
+      "sequence": [
+        "Movement",
+        "Energy",
+        "Creation",
+        "Seeing",
+        "Landscape",
+        "Environment"
+      ],
+      "expression_stack": [
+        "Gate",
+        "Line",
+        "Color",
+        "Tone",
+        "Base",
+        "Degree",
+        "Minute",
+        "Second",
+        "Axis",
+        "House"
+      ]
+    },
+    "Ego": {
+      "sequence": [
+        "Design",
+        "Structure",
+        "Progress",
+        "Smell",
+        "Life",
+        "Art"
+      ],
+      "expression_stack": [
+        "Gate",
+        "Line",
+        "Color",
+        "Tone",
+        "Base",
+        "Degree",
+        "Minute",
+        "Second",
+        "Axis",
+        "House"
+      ]
+    },
+    "Personality": {
+      "sequence": [
+        "Space",
+        "Form",
+        "Illusion",
+        "Hearing",
+        "Music",
+        "Freedom"
+      ],
+      "expression_stack": [
+        "Gate",
+        "Line",
+        "Color",
+        "Tone",
+        "Base",
+        "Degree",
+        "Minute",
+        "Second",
+        "Axis",
+        "House"
+      ]
+    }
+  },
+  "hints_sample": [
+    "Gate:Innocence\u00b0",
+    "Line:'Survival",
+    "Color:'Innocence",
+    "Tone:\"Taste",
+    "Base:\"Geometry",
+    "Base:",
+    "Tone:",
+    "Axis:",
+    "Color/Tone/Base:",
+    "Axis:"
+  ]
+}

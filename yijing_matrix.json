@@ -1,0 +1,91 @@
+{
+  "hexagrams": [],
+  "scales": [
+    {
+      "type": "Wai Guang",
+      "set": [
+        3,
+        7,
+        10,
+        12,
+        16
+      ],
+      "correspondences": {
+        "Yijing": [
+          "16 Gua Qabalah: 4 Aspects of 4 Worlds"
+        ]
+      }
+    },
+    {
+      "type": "Wai Guang",
+      "set": [
+        3,
+        7,
+        10,
+        12,
+        16
+      ],
+      "correspondences": {
+        "Tarot": [
+          "16 Court Cards Astrology: C.D. & Rising Signs Yi:"
+        ]
+      }
+    },
+    {
+      "type": "Wai Guang",
+      "set": [
+        3,
+        7,
+        10,
+        12,
+        16
+      ],
+      "correspondences": {
+        "Yijing": [
+          "16 Gua Qabalah: 4 Aspects of 4 Worlds"
+        ]
+      }
+    },
+    {
+      "type": "Wai Guang",
+      "set": [
+        3,
+        7,
+        10,
+        12,
+        16
+      ],
+      "correspondences": {
+        "Tarot": [
+          "16 Court Cards Astrology: C.D. & Rising Signs Yi:"
+        ]
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "word": "Characters",
+      "pinyin": "Not",
+      "english": "in the Glossary 464",
+      "notes": ""
+    },
+    {
+      "word": "Most",
+      "pinyin": "Common",
+      "english": "Words 481",
+      "notes": ""
+    },
+    {
+      "word": "Pronouncing",
+      "pinyin": "Pinyin",
+      "english": "Chinese 484",
+      "notes": ""
+    },
+    {
+      "word": "Pinyin",
+      "pinyin": "to",
+      "english": "Wade-Giles Conversion 486",
+      "notes": ""
+    }
+  ]
+}

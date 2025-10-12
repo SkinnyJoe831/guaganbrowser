@@ -1,0 +1,76 @@
+{
+  "schema": {
+    "entry": {
+      "dimension": "Mind|Body|Heart|Ego|Personality",
+      "center": "e.g., Ajna, Spleen, G, Ego, etc.",
+      "gate": "integer 1..64",
+      "line": "integer 1..6",
+      "color": "integer 1..6",
+      "tone": "integer 1..6",
+      "base": "integer 1..5",
+      "degree": "0..29",
+      "minute": "0..59",
+      "second": "0..59",
+      "axis": "North|South or Conscious|Unconscious",
+      "house": "1..12",
+      "planet": "Sun|Earth|Moon|...",
+      "yiji_binary": "string[6] (yin=0, yang=1)",
+      "codon": "optional (if present in Neural mappings)",
+      "amino_acid": "optional (if present)"
+    }
+  },
+  "grammar_sequences": {
+    "Body": [
+      "Being",
+      "Matter",
+      "Touch",
+      "Sex",
+      "Survival"
+    ],
+    "Mind": [
+      "Evolution",
+      "Gravity",
+      "Memory",
+      "Taste",
+      "Love",
+      "Light"
+    ],
+    "Heart": [
+      "Movement",
+      "Energy",
+      "Creation",
+      "Seeing",
+      "Landscape",
+      "Environment"
+    ],
+    "Ego": [
+      "Design",
+      "Structure",
+      "Progress",
+      "Smell",
+      "Life",
+      "Art"
+    ],
+    "Personality": [
+      "Space",
+      "Form",
+      "Illusion",
+      "Hearing",
+      "Music",
+      "Freedom"
+    ]
+  },
+  "expression_stack_order": [
+    "Gate",
+    "Line",
+    "Color",
+    "Tone",
+    "Base",
+    "Degree",
+    "Minute",
+    "Second",
+    "Axis",
+    "House"
+  ],
+  "neural_samples_file": "Neural_Extracted_Samples.txt"
+}
