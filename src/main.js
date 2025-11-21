@@ -1,6 +1,6 @@
 export function loadTest() {
   document.getElementById("output").innerHTML = `
-    <strong>Test loaded:</strong> GuaganBrowser JS is working.
+    <strong>Test loaded:</strong> GuaganBrowser JS is working. WOLOLOOO
   `;
 }
 
